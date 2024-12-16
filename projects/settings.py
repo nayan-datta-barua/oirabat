@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ro62=+5j65qxo8n18*tlrpo5rbdhyq^e_@uwqw!6+&li^03$dw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['oirabat.onrender.com']
+ALLOWED_HOSTS = ['oirabat.onrender.com','127.0.0.1', 'localhost' ]
 
 
 # Application definition
